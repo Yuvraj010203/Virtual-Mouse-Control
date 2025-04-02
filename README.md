@@ -5,9 +5,13 @@ This project enables touch-free computer control using hand gestures. It support
 
 ## Tech Stack
 🔹 Python
+
 🔹 MediaPipe
+
 🔹 OpenCV
+
 🔹 PyAutoGUI
+
 🔹 NumPy
 
 
