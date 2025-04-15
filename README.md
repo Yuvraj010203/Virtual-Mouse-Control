@@ -26,7 +26,8 @@ A **gesture-based virtual mouse** system that utilizes computer vision and real-
 
 ## 📝 Features
 
-- Cursor movement
+- 30+ Hand Gestures
+-  Cursor movement
 - Single and double click support
 - Volume control
 - Scroll functionality
